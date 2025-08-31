@@ -4,8 +4,6 @@ output
 outputs
 logs
 log
-assets
-asset
 *.ply
 *.obj
 build
